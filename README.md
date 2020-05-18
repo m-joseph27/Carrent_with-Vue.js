@@ -1,10 +1,10 @@
 # Carrent
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/carrent-vuejs)
-![GitHub contributors](https://img.shields.io/github/contributors/HiRahmat-Dev/carrent-vuejs)
-![GitHub stars](https://img.shields.io/github/stars/HiRahmat-Dev/carrent-vuejs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/carrent-vuejs?style=social)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FHiRahmat-Dev%2Fcarrent-vuejs
+![GitHub repo size](https://img.shields.io/github/repo-size/m-joseph27/Carrent_with-Vue.js)
+![GitHub contributors](https://img.shields.io/github/contributors/m-joseph27/Carrent_with-Vue.js)
+![GitHub stars](https://img.shields.io/github/stars/m-joseph27/Carrent_with-Vue.js?style=social)
+![GitHub forks](https://img.shields.io/github/forks/m-joseph27/Carrent_with-Vue.js?style=social)
+![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fm-joseph27%2FCarrent_with-Vue.js
 )
 
 <p align="center">
@@ -39,7 +39,7 @@
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/HiRahmat-Dev/carrent-vuejs.git`
+2. Type `git clone https://github.com/m-joseph27/Carrent_with-Vue.js.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first, [check here](#related-project-backend)
