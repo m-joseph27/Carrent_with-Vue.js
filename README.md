@@ -1,6 +1,6 @@
 # Carrent
 
-![GitHub repo size](https://img.shields.io/github/repo-size/m-joseph27/Carrent_with-Vue.js)
+![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/carrent-vuejs)
 ![GitHub contributors](https://img.shields.io/github/contributors/HiRahmat-Dev/carrent-vuejs)
 ![GitHub stars](https://img.shields.io/github/stars/HiRahmat-Dev/carrent-vuejs?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/carrent-vuejs?style=social)
