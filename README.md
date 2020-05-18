@@ -74,7 +74,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
 
 ## Related Project (Backend)
 
-* [`Backend-Carrent`](https://github.com/HiRahmat-Dev/carrent-api)
+* [`Backend-Carrent`](https://github.com/m-joseph27/Carrent_API)
 
 ## Contributors
 <center>
