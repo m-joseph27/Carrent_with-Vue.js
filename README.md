@@ -81,6 +81,12 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
   <table>
     <tr>
       <td align="center">
+        <a href="https://github.com/m-joseph27">
+          <img width="150" src="https://avatars2.githubusercontent.com/u/60948526?s=400&u=c258f85ec35ccfda6ce3911dae79d45e335088b3&v=4" alt="Muhammad Yusuf"><br/>
+          <b>Muhammad Yusuf</b>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/HiRahmat-Dev/">
           <img width="150" src="https://avatars2.githubusercontent.com/u/55150659?s=460&u=c7171bb4128787c303efdce0d62bc86289f1211b&v=4" alt="Rahmat Hidayatullah"><br/>
           <b>Rahmat Hidayatullah</b>
@@ -96,12 +102,6 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
         <a href="https://github.com/azmprllynsa">
           <img width="150" src="https://avatars1.githubusercontent.com/u/60286175?s=400&v=4" alt="azmprllynsa"><br/>
           <b>azmprllynsa</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/m-joseph27">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/60948526?s=400&u=c258f85ec35ccfda6ce3911dae79d45e335088b3&v=4" alt="Muhammad Yusuf"><br/>
-          <b>Muhammad Yusuf</b>
         </a>
       </td>
       <td align="center">
